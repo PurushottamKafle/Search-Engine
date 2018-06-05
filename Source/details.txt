@@ -1,0 +1,2 @@
+First of all setup your database in PhpMyadmin and create extra .php file name called connect.inc.php and index.php
+
